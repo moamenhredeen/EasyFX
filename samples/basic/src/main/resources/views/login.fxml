@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="400.0" prefWidth="600.0" spacing="15.0"
+      fx:controller="org.easyfx.samples.basic.views.Login"
+      xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label alignment="TOP_CENTER" text="Login Page">
+            <font>
+                <Font size="24.0"/>
+            </font>
+        </Label>
+        <TextField maxWidth="200.0" minWidth="100.0" prefHeight="26.0" prefWidth="342.0"/>
+        <PasswordField maxWidth="200.0"/>
+        <Button onAction="#goToHome" mnemonicParsing="false" text="login"/>
+    </children>
+    <padding>
+        <Insets bottom="25.0" left="25.0" right="25.0" top="25.0"/>
+    </padding>
+</VBox>
