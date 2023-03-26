@@ -13,7 +13,7 @@ public abstract class FXApplication extends Application {
 
     @Override
     public void init(){
-        context = Micronaut.run(FXApplication.class);
+        context = Micronaut.run(getClass());
     }
 
     @Override

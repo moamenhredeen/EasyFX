@@ -4,53 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00f7b414-924f-4ffa-9ea5-0a459175f2a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/easyfx-fxml/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="ca323542-6d0e-43a4-a7d1-562ef254b13c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXRouter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/annotations/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/annotations/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/org.easyfx.core.$FXRouter$Definition$Reference" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/$FXRouter$Definition$Reference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/$FXRouter$Definition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/FXApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/FXApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/FXRouter.class" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/FXRouter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/annotations/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/target/classes/org/easyfx/core/annotations/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core/FXLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/BasicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/BasicApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/views/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/views/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/views/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/java/org/easyfx/samples/basic/views/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/src/main/resources/views/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/resources/views/home.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/src/main/resources/views/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/src/main/resources/views/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Home$Definition$Reference.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Home$Definition$Reference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Home$IntrospectionRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Home$IntrospectionRef.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Login$Definition$Reference.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Login$Definition$Reference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Login$IntrospectionRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/$Login$IntrospectionRef.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/Home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/org/easyfx/samples/basic/views/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/views/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/views/home.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/basic/target/classes/views/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/basic/target/classes/views/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-        <option value="Enum" />
-        <option value="MIT" />
-      </list>
-    </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17/javafx-graphics-17-sources.jar!/javafx/application/Application.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,6 +25,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -67,10 +35,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2LZ2HeSPHwzWi13xm2644BZ9yvn" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2LbS1vdOFLv3v5dZEDt3Zbb6L6t" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,43 +45,49 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-17",
-    "last_opened_file_path": "/home/moamen/git-repos/EasyFX/samples/basic/src/main/java",
+    "last_opened_file_path": "/home/moamen/git-repos/open-source/SupernautFX",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "settings.editor.splitter.proportion": "0.26990554",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/samples/basic/src/main/java" />
-      <recent name="$PROJECT_DIR$/samples/basic/src/main/resources" />
-      <recent name="$PROJECT_DIR$/modules/easyfx-core/src/main/java/org/easyfx/core" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/docs/asciidoc" />
-      <recent name="$PROJECT_DIR$/samples" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="org.easyfx.core" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="org.easyfx.samples.basic" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="mvn clean package" />
-    </option>
-  </component>
   <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="EasyFX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="EasyFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="EasyFX" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="MicronautRunConfigurationType" factoryName="Micronaut" temporary="true" nameIsGenerated="true">
       <module name="basic" />
       <extension name="coverage">
@@ -138,6 +109,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="EasyFX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="EasyFX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="EasyFX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="EasyFX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Micronaut.Main" />
@@ -147,14 +178,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="00f7b414-924f-4ffa-9ea5-0a459175f2a5" name="Changes" comment="" />
-      <created>1676064198182</created>
+      <changelist id="ca323542-6d0e-43a4-a7d1-562ef254b13c" name="Changes" comment="" />
+      <created>1676138078652</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676064198182</updated>
-      <workItem from="1676064199283" duration="5643000" />
-      <workItem from="1676071431130" duration="4099000" />
-      <workItem from="1676112921039" duration="8243000" />
+      <updated>1676138078652</updated>
+      <workItem from="1676138079814" duration="1375000" />
+      <workItem from="1676139592751" duration="1815000" />
+      <workItem from="1676145587524" duration="1776000" />
     </task>
     <servers />
   </component>

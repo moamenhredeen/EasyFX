@@ -9,11 +9,14 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.HashMap;
+import java.util.Map;
 
 @Singleton
 public class FXLoader {
 
     private Logger log = LoggerFactory.getLogger(FXLoader.class);
+    private Map<String, FXMLLoader> loaders = new HashMap<>();
 
     private ApplicationContext context;
 
@@ -24,10 +27,12 @@ public class FXLoader {
 
     public Parent load(String fxmlFileName) {
         var path = resolve(fxmlFileName);
-        var loader = new FXMLLoader(path);
+        var loader = loaders.containsKey(fxmlFileName) ? loaders.get(fxmlFileName) : new FXMLLoader(path);
         loader.setControllerFactory(beanType -> context.getBean(beanType));
         try {
-            return loader.load();
+            Parent parent = loader.load();
+            loaders.put(fxmlFileName, loader);
+            return parent;
         } catch (IOException e) {
             log.info(e.getMessage());
         }
